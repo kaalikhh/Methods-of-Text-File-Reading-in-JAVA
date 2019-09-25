@@ -1,0 +1,1 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/22d67ed5c9fe4e968ec037ca6a58b7d5)](https://www.codacy.com/manual/saurabhyadav789/Methods-of-Text-File-Reading-in-JAVA?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saurabhyadav789/Methods-of-Text-File-Reading-in-JAVA&amp;utm_campaign=Badge_Grade)
